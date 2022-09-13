@@ -1,0 +1,7 @@
+let result;
+
+function bitcoin(bitcoinPrice, dollars) {
+  
+  result = dollars / bitcoinPrice;
+  return result;
+}
